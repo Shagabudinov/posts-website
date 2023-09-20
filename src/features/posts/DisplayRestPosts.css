@@ -1,0 +1,17 @@
+.rest-posts-container {
+    border: 1px solid silver;
+    border-radius: 16px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.4);
+}
+
+.rest-posts-container__info {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    gap: 16px;
+}
+
+.rest-posts-container__meta {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,4 @@
+.posts-container {
+    display: flex;
+    gap: 28px;
+}

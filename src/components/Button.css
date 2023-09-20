@@ -1,0 +1,7 @@
+.button-read-next__text {
+    padding: 8px 16px;
+    border: 2px solid black;
+    border-radius: 48px;
+    text-decoration: none;
+    color: black;
+}

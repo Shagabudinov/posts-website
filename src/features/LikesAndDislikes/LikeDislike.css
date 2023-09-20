@@ -1,0 +1,21 @@
+.likes-container {
+    display: flex;
+    gap: 24px
+}
+
+.likes-container__counter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+}
+
+.like-dislike-img {
+    width: 24px;
+    height: 24px;
+}
+
+.like-dislike-button {
+    border: none;
+    background-color: transparent;
+}

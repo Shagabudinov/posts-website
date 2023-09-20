@@ -1,0 +1,24 @@
+.post-page-container {
+    display: flex;
+    flex-direction: column;
+    gap: 48px
+}
+
+.post-page-container__meta {
+    display: flex;
+    justify-content: space-between;
+    margin: 32px 0px;
+}
+
+.post-page-container__button-back {
+    text-decoration: none;
+    color: black;
+}
+
+.post-page-container__info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 48px
+}
